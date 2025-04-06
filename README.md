@@ -14,3 +14,6 @@ It is a system for managing small shops or restaurants developed in Java.
 
 ## How to use
 Run File Frame_main.java
+
+# Screenshot
+![App Screenshot](https://i.imgur.com/jKpQMsO.png)
