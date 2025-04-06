@@ -15,9 +15,9 @@ public class queryClass {
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
 
-            String url = "jdbc:mysql://103.82.249.195:3306/foodmanage_db";
-            String username = "root";
-            String password = "zz112233";
+            String url = "jdbc:mysql://your_ipaddress:3306/your_databasename";
+            String username = "your_username";
+            String password = "your_password";
             
             Connection conn = DriverManager.getConnection(url, username, password);
             
